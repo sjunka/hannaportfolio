@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
 
-
 //Import for custom styles
 import 'react-mdl/extra/material.css';
 import 'react-mdl/extra/material.js';
